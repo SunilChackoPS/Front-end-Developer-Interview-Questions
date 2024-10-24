@@ -1,7 +1,7 @@
 ---
 title: Front End Developer Interview Questions
 layout: layouts/page.njk
-permalink: /translations/************/index.html
+permalink: /translations/english/index.html
 ---
 
 
